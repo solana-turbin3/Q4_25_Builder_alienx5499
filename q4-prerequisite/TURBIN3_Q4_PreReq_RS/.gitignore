@@ -1,0 +1,6 @@
+/target
+
+# Wallet files - NEVER commit private keys
+*.json
+!Cargo.toml
+!Cargo.lock
