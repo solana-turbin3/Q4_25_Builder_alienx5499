@@ -9,7 +9,7 @@ const keypair = Keypair.fromSecretKey(new Uint8Array(wallet));
 const commitment: Commitment = "confirmed";
 const connection = new Connection("https://api.devnet.solana.com", commitment);
 
-const token_decimals = 776_000_000n;
+const token_decimals = 777_777_000_000n;
 
 // Mint address
 const mint = new PublicKey("4sCh4YUdsFuUFTaMyAx3SVnHvHkY9XNq1LX4L6nnWUtv");

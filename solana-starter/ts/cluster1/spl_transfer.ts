@@ -13,7 +13,7 @@ const connection = new Connection("https://api.devnet.solana.com", commitment);
 const mint = new PublicKey("4sCh4YUdsFuUFTaMyAx3SVnHvHkY9XNq1LX4L6nnWUtv");
 
 // Recipient address
-const to = new PublicKey("BNQiL7fDubRonUVfhuM17UGzgwmMQnkpLgveQxcRzHhY");
+const to = new PublicKey("BoSU3QWjuBrQQB9U7xroYScKqPoZyKNTPKyGjaUsJpcH");
 
 (async () => {
     try {
@@ -40,7 +40,7 @@ const to = new PublicKey("BNQiL7fDubRonUVfhuM17UGzgwmMQnkpLgveQxcRzHhY");
             fromTokenAccount.address,
             toTokenAccount.address,
             keypair.publicKey,
-            7_000_000n
+            700_000_000n
         );
         console.log(`Transfer tx: ${signature}`);
     } catch(e) {
