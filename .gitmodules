@@ -1,0 +1,3 @@
+[submodule "Capstone/ZYURA"]
+	path = Capstone/ZYURA
+	url = https://github.com/alienx5499/ZYURA.git
