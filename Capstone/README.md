@@ -4,21 +4,21 @@
 
 ### Instant, fair, community‑owned flight‑delay insurance on Solana
 
-[![Build Passing](https://img.shields.io/badge/build-passing-success?style=flat-square)](https://github.com/alienx5499/ZYURA/actions)
+[![Build Passing](https://img.shields.io/badge/build-passing-success?style=flat-square)](https://github.com/alienX5499/ZYURA/actions)
 [![Solana](https://img.shields.io/badge/Solana-Devnet-purple?style=flat-square)](https://solana.com/)
 [![Anchor](https://img.shields.io/badge/Anchor-Framework-blue?style=flat-square)](https://www.anchor-lang.com/)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/alienx5499/ZYURA/blob/main/CONTRIBUTING.md)
-[![License: MIT](https://custom-icon-badges.herokuapp.com/github/license/alienx5499/ZYURA?logo=law&logoColor=white)](https://github.com/alienx5499/ZYURA/blob/main/LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/alienX5499/ZYURA/blob/main/CONTRIBUTING.md)
+[![License: MIT](https://custom-icon-badges.herokuapp.com/github/license/alienX5499/ZYURA?logo=law&logoColor=white)](https://github.com/alienX5499/ZYURA/blob/main/LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Solana-brightgreen?style=flat-square)](https://solana.com/)
-[![Views](https://visitor-badge.laobi.icu/badge?page_id=alienx5499.ZYURA)](https://visitor-badge.laobi.icu/badge?page_id=alienx5499.ZYURA)
-[![⭐ GitHub stars](https://img.shields.io/github/stars/alienx5499/ZYURA?style=social)](https://github.com/alienx5499/ZYURA/stargazers)
-[![🍴 GitHub forks](https://img.shields.io/github/forks/alienx5499/ZYURA?style=social)](https://github.com/alienx5499/ZYURA/network)
-[![Commits](https://badgen.net/github/commits/alienx5499/ZYURA)](https://github.com/alienx5499/ZYURA/commits/main)
-[![🐛 GitHub issues](https://img.shields.io/github/issues/alienx5499/ZYURA)](https://github.com/alienx5499/ZYURA/issues)
-[![📂 GitHub pull requests](https://img.shields.io/github/issues-pr/alienx5499/ZYURA)](https://github.com/alienx5499/ZYURA/pulls)
-[![💾 GitHub code size](https://img.shields.io/github/languages/code-size/alienx5499/ZYURA)](https://github.com/alienx5499/ZYURA)
+[![Views](https://visitor-badge.laobi.icu/badge?page_id=alienX5499.ZYURA)](https://visitor-badge.laobi.icu/badge?page_id=alienX5499.ZYURA)
+[![⭐ GitHub stars](https://img.shields.io/github/stars/alienX5499/ZYURA?style=social)](https://github.com/alienX5499/ZYURA/stargazers)
+[![🍴 GitHub forks](https://img.shields.io/github/forks/alienX5499/ZYURA?style=social)](https://github.com/alienX5499/ZYURA/network)
+[![Commits](https://badgen.net/github/commits/alienX5499/ZYURA)](https://github.com/alienX5499/ZYURA/commits/main)
+[![🐛 GitHub issues](https://img.shields.io/github/issues/alienX5499/ZYURA)](https://github.com/alienX5499/ZYURA/issues)
+[![📂 GitHub pull requests](https://img.shields.io/github/issues-pr/alienX5499/ZYURA)](https://github.com/alienX5499/ZYURA/pulls)
+[![💾 GitHub code size](https://img.shields.io/github/languages/code-size/alienX5499/ZYURA)](https://github.com/alienX5499/ZYURA)
 
-<img alt="ZYURA" src="https://raw.githubusercontent.com/alienx5499/ZYURA/main/frontend/public/logo.svg" width="120" height="120" style="filter: invert(1);" />
+<img alt="ZYURA" src="https://raw.githubusercontent.com/alienX5499/ZYURA/main/frontend/public/logo.svg" width="120" height="120" style="filter: invert(1);" />
 
 </div>
 
@@ -49,11 +49,11 @@ Real-time oracle data (via Switchboard) is the source of truth, and all terms, p
 
 Need instant flight‑delay protection? You’re exactly who we built this for.
 
-<a href="https://github.com/alienx5499/ZYURA">
+<a href="https://github.com/alienX5499/ZYURA">
   <img src="https://img.shields.io/badge/⭐%20Star%20this%20repo-Be%20part%20of%20our%20community!-yellow?style=for-the-badge&logo=github" alt="Star this repo" />
 </a>
 
-<a href="https://twitter.com/intent/tweet?text=🔥%20WOW!%20ZYURA%20is%20revolutionizing%20flight%20delay%20insurance%20on%20Solana!%20Instant%20payouts,%20transparent%20on-chain,%20no%20paperwork!%20🚀✨%0AIf%20you%20travel%20frequently%20or%20want%20decentralized%20insurance%20-%20you%20NEED%20this!%20%F0%9F%9A%80%0Ahttps://github.com/alienx5499/ZYURA%0A@alienx5499">
+<a href="https://twitter.com/intent/tweet?text=🔥%20WOW!%20ZYURA%20is%20revolutionizing%20flight%20delay%20insurance%20on%20Solana!%20Instant%20payouts,%20transparent%20on-chain,%20no%20paperwork!%20🚀✨%0AIf%20you%20travel%20frequently%20or%20want%20decentralized%20insurance%20-%20you%20NEED%20this!%20%F0%9F%9A%80%0Ahttps://github.com/alienX5499/ZYURA%0A@alienX5499">
 <img src="https://img.shields.io/badge/Share-Help%20a%20fellow%20traveler!-1DA1F2?style=for-the-badge&logo=twitter" alt="Tweet about ZYURA" />
 </a>
 
@@ -97,7 +97,7 @@ Every star helps us build a more transparent and accessible insurance future.
 - **On-Chain Metadata**: All policy details stored immutably
 - **Metaplex Integration**: Standard NFT format for compatibility
 - **Policy Tracking**: Easy portfolio management
- - **Metadata Hosting**: SVG images and JSON metadata for minted policy NFTs are stored in a public GitHub repository per wallet folder: [`zyura-nft-metadata`](https://github.com/alienx5499/zyura-nft-metadata). The frontend uploads assets via an internal API to that repo for transparent, durable hosting.
+ - **Metadata Hosting**: SVG images and JSON metadata for minted policy NFTs are stored in a public GitHub repository per wallet folder: [`zyura-nft-metadata`](https://github.com/alienX5499/zyura-nft-metadata). The frontend uploads assets via an internal API to that repo for transparent, durable hosting.
 
 ### 🔍 **Oracle Integration**
 
@@ -410,7 +410,7 @@ ZYURA/
 
 ```bash
 # Clone the repository
-git clone https://github.com/alienx5499/ZYURA.git
+git clone https://github.com/alienX5499/ZYURA.git
 cd ZYURA
 
 # Install contract dependencies
@@ -1185,8 +1185,8 @@ We ❤️ open source! Your contributions make this project better.
 <div align="center">
 	<h3>Thank you for contributing to our repository</h3><br>
 	<p align="center">
-		<a href="https://github.com/alienx5499/ZYURA/contributors">
-			<img src="https://contrib.rocks/image?repo=alienx5499/ZYURA" width="720" height="380" />
+		<a href="https://github.com/alienX5499/ZYURA/contributors">
+			<img src="https://contrib.rocks/image?repo=alienX5499/ZYURA" width="720" height="380" />
 		</a>
 	</p>
 </div>
@@ -1205,7 +1205,7 @@ Unless otherwise noted in a file header, all source code in this repository is p
 
 ### 📬 **Feedback & Suggestions**
 
-_We value your input! Share your thoughts through [GitHub Issues](https://github.com/alienx5499/ZYURA/issues)._
+_We value your input! Share your thoughts through [GitHub Issues](https://github.com/alienX5499/ZYURA/issues)._
 
 💡 _Let's work together to build a more transparent and accessible insurance future on Solana!_
 
