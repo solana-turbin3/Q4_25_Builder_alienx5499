@@ -79,6 +79,7 @@ Every star helps us build a more transparent and accessible insurance future.
 12. [🌟 Awesome Contributors](#-awesome-contributors)
 13. [📜 License](#-license)
 14. [📬 Feedback & Suggestions](#-feedback--suggestions)
+15. [✅ Test Status (Devnet)](#-test-status-devnet)
 
 ---
 
@@ -463,6 +464,16 @@ pnpm dev
    anchor test --skip-local-validator
    ```
    This reuses the Surfpool instance running at `http://localhost:8899`.
+
+---
+
+## ✅ **Test Status (Devnet)**
+
+All test suites were executed directly on **Solana devnet**:
+
+- **Anchor program**: `anchor test --provider.cluster devnet`
+
+![ZYURA devnet test pass](https://github.com/user-attachments/assets/08d5acc6-d598-4d21-8cf4-16ec4c5d1e60)
 
 ---
 
